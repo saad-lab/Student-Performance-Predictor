@@ -1,1 +1,7 @@
-# Student-Performance-Predictor
+# Student Risk Assesment System
+
+This is a machine learning based student risk assesment system that analysis different factors that can affect students performance using a Random Forest algorithm. The datset used in this study is Student Performance & Behavior Dataset, and can be accessed by below link .It analyzes 14 different factors including academic performance (attendance, test scores, assignments), personal habits (study hours, sleep, stress levels), and demographic information (family income, parent education, internet access). The system loads student data, handles missing values through imputation or removal, converts categorical variables into numerical format, and trains a model that can predict grades (A-F) with measurable accuracy.
+
+Beyond just making predictions, we performs comprehensive analysis including different visualizations (confusion matrices, feature importance charts), testing different model configurations, and checking for potential bias across gender and income groups. It identifies which factors most influence student success and generates actionable recommendations for educators. The entire pipeline—from data loading to final reporting—is automated, producing charts, performance metrics, and a detailed report that could help to understand what drives student performance and ensure their interventions are targeting the most impactful areas.
+
+Dataset: https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset?resource=download
