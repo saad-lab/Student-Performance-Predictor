@@ -1,4 +1,4 @@
-# Student Risk Assesment System
+# Student Risk Assessment System
 
 This is a machine learning based student risk assesment system that analysis different factors that can affect students performance using a Random Forest algorithm. The datset used in this study is Student Performance & Behavior Dataset, and can be accessed by below link .It analyzes 14 different factors including academic performance (attendance, test scores, assignments), personal habits (study hours, sleep, stress levels), and demographic information (family income, parent education, internet access). The system loads student data, handles missing values through imputation or removal, converts categorical variables into numerical format, and trains a model that can predict grades (A-F) with measurable accuracy.
 
